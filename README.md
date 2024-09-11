@@ -6,7 +6,14 @@ Calculadora IMC
 Projeto de app Android Nativo, desenvolvido na linguagem de programação Kotlin. Tem como objetivo calcular o indíce massa corporal do usuário.
 
 ## 📸 Screenshots
- 
+
+<img src="https://github.com/user-attachments/assets/c51e43fc-9a69-4f00-a92c-5245869fca03" width=200/>
+<img src="https://github.com/user-attachments/assets/ef4d931a-aa92-44f1-8a14-2ea541221a95" width=200/>
+<img src="https://github.com/user-attachments/assets/e4c24cbc-2845-4de6-9047-a5e61a243931" width=200/>
+<img src="https://github.com/user-attachments/assets/3427e2a9-b3b2-4246-8766-eae10319c0fd" width=200/>
+<img src="https://github.com/user-attachments/assets/8be95dff-1f87-4637-986d-88eb0b607be0" width=200/>
+<img src="https://github.com/user-attachments/assets/2902f9b9-21e1-4e8c-96bd-5b04bdfc0e21" width=200/>
+
 ## Tecnologias
 Techs -Activity -Intent-ViewGroup -LinearLayout -ConstraintLaypout -Views -ImageView -TextView -EditText -Button
 
